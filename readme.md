@@ -1,7 +1,8 @@
 # ♻️ SortWise AI
 ### AI-Powered Smart Waste Identification, Classification and Segregation System
 
-![alt text](image.png)
+<img width="1000" height="700" alt="Screenshot 2026-11-03 233705" src="https://github.com/user-attachments/assets/270c75ce-98c0-4e07-82ff-b1deee359d0e" />
+
 
 **Problem Statement:** GP-05 — Smart Waste Segregation System
 
