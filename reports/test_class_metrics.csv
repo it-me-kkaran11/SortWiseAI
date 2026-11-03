@@ -1,0 +1,7 @@
+class,test_images,correct,incorrect,precision,recall,f1_score
+cardboard,61,55,6,0.9016,0.9016,0.9016
+glass,76,58,18,0.8529,0.7632,0.8056
+metal,62,55,7,0.8209,0.8871,0.8527
+paper,90,82,8,0.8632,0.9111,0.8865
+plastic,73,63,10,0.8182,0.863,0.84
+trash,22,12,10,0.75,0.5455,0.6316

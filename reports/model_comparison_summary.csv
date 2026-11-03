@@ -1,0 +1,3 @@
+model,test_images,correct,incorrect,test_accuracy
+Original,384,314,70,0.8177083333333334
+Fine-tuned,384,325,59,0.8463541666666666

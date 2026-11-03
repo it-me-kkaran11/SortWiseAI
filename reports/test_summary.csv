@@ -1,0 +1,2 @@
+model,test_images,correct_predictions,incorrect_predictions,test_accuracy,macro_precision,macro_recall,macro_f1_score,elapsed_seconds
+Fine-tuned MobileNetV3-Small,384,325,59,0.8464,0.8345,0.8119,0.8197,21.25
